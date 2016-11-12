@@ -1,6 +1,18 @@
 body{
   text-align: center;
+
 }
 .button{
-  display: inline-block;
+  padding: 30px;
+  margin: 10px 0 10px 0;
+  height: 100px;
+  width: 250px;
+  border-radius: 7px;
+
+}
+#button{
+  padding-left: 40%;
+  padding-right: 50%;
+
+
 }
