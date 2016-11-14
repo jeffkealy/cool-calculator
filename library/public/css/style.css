@@ -1,18 +1,23 @@
 body{
   text-align: center;
+}
+h1{
 
 }
-.button{
-  padding: 30px;
+.button, .equalsButton {
+  /*padding: 30px;*/
   margin: 10px 0 10px 0;
-  height: 100px;
-  width: 250px;
+  height: 50px;
+  width: 125px;
   border-radius: 7px;
 
 }
-#button{
+#button #equalsClick {
+  text-align: center;
   padding-left: 40%;
   padding-right: 50%;
-
-
+}
+#clearButton{
+  background-color: red;
+  border-radius: 7px
 }
